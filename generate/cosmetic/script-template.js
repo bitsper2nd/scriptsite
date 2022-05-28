@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Cosmetic Ad Block for Bromite
+// @name         Adguard Web Annoyances
 // @namespace    xarantolus
 // @version      {{.version}}
 // @description  Blocks annoying elements in pages, sourced from many different filter lists
