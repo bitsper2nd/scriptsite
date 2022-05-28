@@ -67,7 +67,7 @@ func main() {
 	var (
 		outputFilename = flag.String("output", "release.md", "Path to release file path")
 
-		repo = env("GITHUB_REPOSITORY", "xarantolus/bromite-userscripts")
+		repo = env("GITHUB_REPOSITORY", "bitsper2nd/scriptsite")
 
 		tmpl = template.Must(template.New("").Parse(outputTemplate))
 	)
