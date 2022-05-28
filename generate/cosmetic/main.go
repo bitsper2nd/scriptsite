@@ -32,7 +32,7 @@ func toJSObject(x interface{}) string {
 func main() {
 	var (
 		inputLists   = flag.String("input", "filter-lists.txt", "Path to file that defines URLs to blocklists")
-		scriptTarget = flag.String("output", "awa.user.js", "Path to output file")
+		scriptTarget = flag.String("output", "web-annoyances.user.js", "Path to output file")
 	)
 	flag.Parse()
 
