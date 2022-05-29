@@ -1,4 +1,4 @@
 https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt

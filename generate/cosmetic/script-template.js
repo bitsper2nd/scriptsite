@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Web Annoyances
-// @namespace    xarantolus
+// @name         Adguard Annoyances
+// @namespace    bitsper2nd
 // @version      {{.version}}
-// @description  Blocks annoying elements in pages, sourced from Adguard Base, Adguard Social, Adguard Annoyances and Web Annoyances Ultralist filter lists
+// @description  A custom Adguard filter based userscript to remove annoyances like login modals, cookie warnings, or social buttons
 // @author       xarantolus
 // @match        *://*/*
 // @grant        none
