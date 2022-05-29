@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Adguard Web Annoyances
+// @name         Web Annoyances
 // @namespace    xarantolus
 // @version      {{.version}}
-// @description  Blocks annoying elements in pages, sourced from Adguard Social Optimized, Adguard Annoyances Optimized and Web Annoyances Ultralist filter lists
+// @description  Blocks annoying elements in pages, sourced from Adguard Base, Adguard Social, Adguard Annoyances and Web Annoyances Ultralist filter lists
 // @author       xarantolus
 // @match        *://*/*
 // @grant        none
