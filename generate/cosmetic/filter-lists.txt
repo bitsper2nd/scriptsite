@@ -1,4 +1,3 @@
 https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
-https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
