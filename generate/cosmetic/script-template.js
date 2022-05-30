@@ -3,7 +3,8 @@
 // @namespace    bitsper2nd
 // @version      {{.version}}
 // @description  A custom Adguard filter based userscript to remove annoyances like login modals, cookie warnings, or social buttons
-// @author       xarantolus
+// @author       bitsper2nd
+// @icon         https://raw.githubusercontent.com/bitsper2nd/scriptsite/main/generate/cosmetic/ag.png
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
