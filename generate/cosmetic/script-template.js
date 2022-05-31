@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Web Annoyances
+// @name         Adguard Annoyances
 // @namespace    bitsper2nd
 // @version      {{.version}}
-// @description  A custom filter based userscript to remove annoyances from web pages
+// @description  A custom Adguard filter based userscript to remove annoyances like login modals, cookie warnings, or social buttons
 // @author       bitsper2nd
-// @icon         https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg
+// @icon         https://raw.githubusercontent.com/bitsper2nd/scriptsite/main/generate/cosmetic/ag.png
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start

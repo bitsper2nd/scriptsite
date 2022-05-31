@@ -6,7 +6,7 @@ Here scripts are sorted by category. See below on how to install them into your 
 
 | Link | Description  |
 | ------ | ------|
-| [Web Annoyances](https://github.com/bitsper2nd/scriptsite/releases/latest/download/web-annoyances.user.js) | A custom filter based userscript to remove annoyances from web pages |
+| [Annoyances](https://github.com/bitsper2nd/scriptsite/releases/latest/download/annoyances.user.js) | A custom Adguard filter based userscript to remove annoyances |
 | [Popup Blocker](https://userscripts.adtidy.org/release/popup-blocker/2.5/popupblocker.user.js) | The Adguard userscript to block page popups |
 | [Disable AMP](https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js) | The Adguard userscript to remove amp links |
 | [Cookies Warning](https://github.com/xarantolus/bromite-userscripts/releases/latest/download/idcac.user.js) | The I don't care about cookies userscript to remove cookie popups |
