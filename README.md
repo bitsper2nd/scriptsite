@@ -10,7 +10,7 @@ Here scripts are sorted by category. See below on how to install them into your 
 | [Popup Blocker](https://userscripts.adtidy.org/release/popup-blocker/2.5/popupblocker.user.js) | The Adguard userscript to block page popups |
 | [Disable AMP](https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js) | The Adguard userscript to remove amp links |
 | [Cookies Warning](https://github.com/xarantolus/bromite-userscripts/releases/latest/download/idcac.user.js) | The I don't care about cookies userscript to remove cookie popups |
-| [No Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/userscript/bpc.en.user.js) | An userscript to read the best American newspapers |
+| [No Paywalls](https://github.com/burlesco/userscript/raw/master/src/burlesco.user.js) | An userscript to read the best newspapers |
 | [URL Cleaner](https://openuserjs.org/install/sjehuda/Clean_URL_Improved.user.js) | The Clean URLs userscript to remove parameters and trackers from URLs |
 
 ### [License](LICENSE)
