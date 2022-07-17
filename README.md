@@ -12,6 +12,8 @@ Here scripts are sorted by category. See below on how to install them into your 
 | [Cookies Warning](https://github.com/xarantolus/bromite-userscripts/releases/latest/download/idcac.user.js) | The I don't care about cookies userscript to remove cookie popups |
 | [No Paywalls](https://github.com/burlesco/userscript/raw/master/src/burlesco.user.js) | An userscript to read the best newspapers |
 | [URL Cleaner](https://openuserjs.org/install/sjehuda/Clean_URL_Improved.user.js) | The Clean URLs userscript to remove parameters and trackers from URLs |
+| [Twitch](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) | The Twitch Ad block userscript |
+| [Sponsorblock](https://github.com/mchangrh/sb.js/blob/main/docs/sb.user.js) | The Sponsorblock userscript |
 
 ### [License](LICENSE)
 All scripts unless otherwise noted are published under the MIT License (see the LICENSE file). Some scripts might be licensed differently (e.g. because they are derived from GPL-licensed works), which is indicated by the license header at the top of the file
