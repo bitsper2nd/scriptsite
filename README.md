@@ -1,5 +1,5 @@
 # scriptsite
-This is a repository that hosts [User Scripts for Bromite](https://github.com/bromite/bromite/wiki/UserScripts), an Android browser. They might also work on other mobile or desktop browsers, but I only use them on [Cromite](https://github.com/uazo/cromite).
+This is a repository that hosts [User Scripts](https://github.com/bromite/bromite/wiki/UserScripts).
 
 ### Scripts
 Here scripts are sorted by category. See below on how to install them into your browser.
@@ -13,7 +13,8 @@ Here scripts are sorted by category. See below on how to install them into your 
 | [I Don't Care About Cookies](https://github.com/xarantolus/bromite-userscripts/releases/latest/download/idcac.user.js) | An userscript based on the web extension to remove cookie popups |
 | [Bypass Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/userscript/bpc.en.user.js) | An userscript based on the web extension to bypass paywalls |
 | [Sponsorblock](https://raw.githubusercontent.com/mchangrh/sb.js/main/docs/sb.user.js) | An userscript based on the web extension to skip sponsors in Youtube videos |
-| [Ads Bypasser](https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js) | An userscript that bypasses wat times for various for download sites |
+| [Ads Bypasser](https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js) | An userscript that bypasses wait times for various for download sites |
+| [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) | Automatically bypass many link shorteners |
 
 ### [License](LICENSE)
 All scripts unless otherwise noted are published under the MIT License (see the LICENSE file). Some scripts might be licensed differently (e.g. because they are derived from GPL-licensed works), which is indicated by the license header at the top of the file
