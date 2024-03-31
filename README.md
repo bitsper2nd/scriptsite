@@ -14,7 +14,8 @@ Here scripts are sorted by category. See below on how to install them into your 
 | [Bypass Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/userscript/bpc.en.user.js) | An userscript based on the web extension to bypass paywalls |
 | [Sponsorblock](https://raw.githubusercontent.com/mchangrh/sb.js/main/docs/sb.user.js) | An userscript based on the web extension to skip sponsors in Youtube videos |
 | [Ads Bypasser](https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js) | An userscript that bypasses wait times for various for download sites |
-| [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) | Automatically bypass many link shorteners |
+| [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) | Automatically bypass many link shorteners |
+| [Dark Reader](https://gist.github.com/ChandanShakya/864e270815c351a4adc9efc424d87288/raw/ecacd1549a1662e49269023b8508f989c0c010be/Dark.user.js) | A stripped Dark Reader UserScript |
 
 ### [License](LICENSE)
 All scripts unless otherwise noted are published under the MIT License (see the LICENSE file). Some scripts might be licensed differently (e.g. because they are derived from GPL-licensed works), which is indicated by the license header at the top of the file
