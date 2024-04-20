@@ -8,7 +8,7 @@ on:
       - ".github/workflows/**"
 
   schedule:
-  - cron: "0 9 * * FRI"
+  - cron: "0 9 15 * *"
 
   workflow_dispatch:
 
