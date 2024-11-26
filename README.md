@@ -11,9 +11,10 @@ Here scripts are sorted by category. See below on how to install them into your 
 | [Adguard Extra](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js) | Solve complicated cases when regular ad blocking rules aren't enough |
 | [Web of Trust](https://userscripts.adtidy.org/release/adguard-wot/1.0/wot.user.js) | Check out any website for reputation and safety information based on users' experience |
 | [I Don't Care About Cookies](https://github.com/xarantolus/bromite-userscripts/releases/latest/download/idcac.user.js) | An userscript based on the web extension to remove cookie popups |
-| [Bypass Paywalls](https://github.com/bpc-clone/bypass-paywalls-clean-filters/raw/main/userscript/bpc.en.user.js) | An userscript based on the web extension to bypass paywalls |
+| [Bypass Paywalls](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=userscript/bpc.en.user.js) | An userscript based on the web extension to bypass paywalls |
 | [Simple Sponsor Skipper](https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js) | An userscript based on the web extension to skip sponsors in Youtube videos |
 | [Simple Redirect Bypasser](https://codeberg.org/mthsk/userscripts/src/branch/master/simple-redirect-bypasser/simple-redirect-bypasser.user.js) | An userscript to skip redirectors |
+| [Simple Youtube Age Bypass](https://update.greasyfork.org/scripts/423851/Simple%20YouTube%20Age%20Restriction%20Bypass.user.js) | An userscript to bypass age restriction in Youtube videos |
 | [Selection and Copying Restorer](https://greasyfork.org/scripts/427575/Selection%20and%20Copying%20Restorer%20%28Universal%29.user.js) | Unlock right-click, remove restrictions on copy, cut, select text |
 | [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) | Automatically bypass many link shorteners |
 | [Dark Reader](https://gist.github.com/ChandanShakya/864e270815c351a4adc9efc424d87288/raw/ecacd1549a1662e49269023b8508f989c0c010be/Dark.user.js) | A stripped Dark Reader UserScript |
